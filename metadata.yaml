@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36981'
     url: http://www.gutenberg.org/2009/agents/36981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34374#UlrikeEine-Erz-hlung
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-11-20'
 gutenberg_type: Text
